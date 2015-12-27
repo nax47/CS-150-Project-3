@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TopLevelContainer()
+comment0.text=\r\n\ Default\ constructor.\r\n
+comment1.params=customer
+comment1.target=boolean\ add(Customer)
+comment1.text=\r\n\ Method\ to\ add\ a\ customer\ to\ the\ container.\r\n\ \r\n\ @param\ customer\ Customer\ to\ be\ added.\r\n
+comment2.params=
+comment2.target=int\ size()
+comment2.text=\r\n\ Method\ to\ retrieve\ size\ of\ the\ container.\r\n\ \r\n\ @return\ Returns\ the\ size.\r\n
+comment3.params=city
+comment3.target=CityHolder\ get(City)
+comment3.text=\r\n\ Method\ to\ retrieve\ a\ subcontainer\ for\ this\ container(corresponding\ to\ a\ city).\r\n\ \r\n\ @param\ city\ City\ corresponding\ to\ the\ sub-container\ to\ be\ retrieved.\r\n\ @return\ Returns\ the\ item\ using\ specific\ key.\r\n
+comment4.params=city\ items
+comment4.target=void\ list(City,\ ItemContainer)
+comment4.text=\r\n\ Method\ to\ list\ customers\ within\ a\ specific\ city\ who\ need\ all\ specified\ items.\r\n\ \r\n\ @param\ city\ City\ to\ be\ searched\ for\ customers.\r\n\ @param\ items\ Set\ of\ items\ that\ customers\ should\ need.\r\n
+comment5.params=city
+comment5.target=void\ findgoods(City)
+comment5.text=\r\n\ Method\ to\ find\ goods\ purchased\ by\ customers\ within\ a\ specific\ city\ in\ order\ of\ most\ purchased\ to\ least\ purchased.\r\n\ \r\n\ @param\ city\ City\ to\ be\ searched\ for\ customers.\r\n
+comment6.params=cities\ items
+comment6.target=void\ findcities(CityContainer,\ ItemContainer)
+comment6.text=\r\n\ Method\ to\ list\ cities\ sorted\ by\ the\ number\ of\ people\ from\ those\ cities\ who\ purchased\ a\ specific\ set\ of\ items.\r\n\ \r\n\ @param\ city\ Cities\ to\ be\ listed\ in\ order.\r\n\ @param\ items\ Set\ of\ items\ that\ customers\ should\ need.\r\n
+comment7.params=city\ item
+comment7.target=int\ getCustomerCount(City,\ Item)
+comment7.text=\r\n\ Method\ to\ get\ number\ of\ customers\ who\ need\ a\ specific\ item\ in\ a\ specific\ city.\r\n\ \r\n\ @param\ city\ City\ to\ be\ considered.\r\n\ @param\ item\ Item\ to\ be\ considered.\r\n
+numComments=8

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=low\ high
+comment0.target=RandomGenerator(int,\ int)
+comment0.text=\r\n\ Default\ constructor.\r\n\ \r\n\ @param\ low\ Initializes\ lower\ bound.\r\n\ @param\ high\ Initializes\ upper\ bound.\r\n
+comment1.params=
+comment1.target=int\ generate()
+comment1.text=\r\n\ Method\ to\ generate\ and\ return\ random\ numbers\ in\ a\ range.\r\n\r\n\ @return\ Returns\ random\ number\ as\ an\ integer.\r\n
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=Item(java.lang.String)
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=
+comment1.target=java.lang.String\ getType()
+comment1.text=\r\n\ Method\ to\ retrieve\ Item\ type.\r\n\ \r\n\ @return\ The\ type\ of\ item.\r\n
+numComments=2

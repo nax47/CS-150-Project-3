@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CityMapContainer()
+comment0.text=\r\n\ Default\ constructor.\r\n
+comment1.params=city_number
+comment1.target=boolean\ addCity(int)
+comment1.text=\r\n\ Method\ to\ add\ city\ to\ map.\r\n\ \r\n\ @param\ city_number\ Number\ of\ city\ to\ be\ added.\r\n\ @return\ Returns\ whether\ or\ not\ city\ was\ successfully\ added.\r\n
+comment2.params=city1\ city2\ distance
+comment2.target=boolean\ addRoad(int,\ int,\ double)
+comment2.text=\r\n\ Method\ to\ add\ interconnecting\ road\ between\ two\ cities.\r\n\ \r\n\ @param\ city1\ First\ city.\r\n\ @param\ city2\ Second\ city.\r\n\ @param\ distance\ Distance\ between\ the\ cities.\r\n\ @return\ Returns\ whether\ or\ not\ road\ was\ successfully\ added.\r\n
+comment3.params=
+comment3.target=int\ getCityCount()
+comment3.text=\r\n\ Method\ to\ get\ number\ of\ cities.\r\n\ \r\n\ @return\ Returns\ number\ of\ cities\ in\ map.\r\n
+comment4.params=
+comment4.target=void\ resetMap()
+comment4.text=\r\n\ Method\ to\ reset\ internal\ parameters\ of\ each\ city\ in\ the\ map.\r\n
+comment5.params=city1\ city2
+comment5.target=Path\ findShortestPath(int,\ int)
+comment5.text=\r\n\ Method\ to\ find\ shortest\ path\ between\ two\ cities.\r\n\ \r\n\ @param\ city\ First\ city.\r\n\ @param\ city\ Second\ city.\r\n\ @return\ Returns\ shortest\ path\ object.\r\n
+comment6.params=
+comment6.target=CityContainer\ getCities()
+comment6.text=\r\n\ Method\ to\ retrieve\ the\ set\ of\ cities\ in\ map.\r\n\ \r\n\ @return\ Returns\ cities\ in\ a\ container\ object.\r\n
+numComments=7

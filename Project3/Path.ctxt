@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Path()
+comment0.text=\r\n\ Default\ constructor.\r\n
+comment1.params=name
+comment1.target=boolean\ addPrev(java.lang.Object)
+comment1.text=\r\n\ Method\ to\ add\ a\ location\ to\ the\ beginning\ of\ this\ path.\r\n\ \r\n\ @param\ name\ Name\ of\ location\ to\ be\ added.\r\n\ @return\ Returns\ whether\ or\ not\ successfuly\ added.\r\n
+comment2.params=totalcost
+comment2.target=void\ setPathCost(double)
+comment2.text=\r\n\ Method\ to\ set\ total\ cost\ for\ this\ path.\r\n\ \r\n\ @param\ path\ Cost\ to\ be\ set.\r\n
+comment3.params=
+comment3.target=double\ getPathCost()
+comment3.text=\r\n\ Method\ to\ retrieve\ cost\ for\ current\ path.\r\n\ \r\n\ @return\ Returns\ cost.\r\n
+comment4.params=
+comment4.target=java.util.Iterator\ iterator()
+comment4.text=\r\n\ Method\ to\ retrieve\ iterator\ for\ locations\ in\ this\ path.\r\n\ \r\n\ @return\ Returns\ iterator\ object.\r\n
+numComments=5

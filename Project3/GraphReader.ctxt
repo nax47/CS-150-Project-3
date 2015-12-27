@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=GraphReader(java.lang.String)
+comment0.text=\r\n\ Default\ constructor.\r\n\ \r\n\ @param\ filename\ Name\ of\ file\ from\ which\ graph\ is\ to\ be\ read.\r\n
+comment1.params=
+comment1.target=UnDirectedGraph\ createGraph()
+comment1.text=\r\n\ Constructs\ graph\ by\ reading\ node\ and\ edge\ data\ from\ an\ external\ file.\r\n\ \r\n\ @return\ Returns\ the\ created\ graph.\r\n
+numComments=2

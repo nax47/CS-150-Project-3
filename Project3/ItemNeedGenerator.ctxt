@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ItemNeedGenerator()
+comment0.text=\r\n\ Default\ constructor.\r\n
+comment1.params=
+comment1.target=boolean\ generateBakedNeed()
+comment1.text=\r\n\ Method\ to\ generate\ need\ for\ a\ Baked\ item.\r\n\ \r\n\ @return\ Returns\ the\ Baked\ need\ as\ a\ boolean.\ \ \r\n
+comment2.params=
+comment2.target=boolean\ generateMeatNeed()
+comment2.text=\r\n\ Method\ to\ generate\ need\ for\ a\ Meat\ item.\r\n\ \r\n\ @return\ Returns\ the\ Meat\ need\ as\ a\ boolean.\ \ \r\n
+comment3.params=
+comment3.target=boolean\ generateDairyNeed()
+comment3.text=\r\n\ Method\ to\ generate\ need\ for\ a\ Dairy\ item.\r\n\ \r\n\ @return\ Returns\ the\ Dairy\ need\ as\ a\ boolean.\ \ \r\n
+comment4.params=
+comment4.target=boolean\ generateFruitNeed()
+comment4.text=\r\n\ Method\ to\ generate\ need\ for\ a\ Fruit\ item.\r\n\ \r\n\ @return\ Returns\ the\ Fruit\ need\ as\ a\ boolean.\ \ \r\n
+comment5.params=
+comment5.target=boolean\ generateVegNeed()
+comment5.text=\r\n\ Method\ to\ generate\ need\ for\ a\ Veg\ item.\r\n\ \r\n\ @return\ Returns\ the\ Veg\ need\ as\ a\ boolean.\ \ \r\n
+comment6.params=
+comment6.target=boolean\ generateBevNeed()
+comment6.text=\r\n\ Method\ to\ generate\ need\ for\ a\ Bev\ item.\r\n\ \r\n\ @return\ Returns\ the\ Bev\ need\ as\ a\ boolean.\ \ \r\n
+numComments=7

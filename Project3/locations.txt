@@ -1,0 +1,30 @@
+baked goods 24
+beverages 20
+dairy 28
+baked goods 127
+dairy 128
+fruits 54
+meat 50
+dairy 112
+beverages 82
+beverages 80
+vegetables 81
+beverages 3
+fruits 104
+vegetables 175
+dairy 180
+meat 188
+vegetables 189
+vegetables 99
+dairy 167
+meat 161
+fruits 163
+baked goods 10
+baked goods 19
+fruits 152
+baked goods 159
+beverages 141
+fruits 148
+meat 75
+meat 72
+vegetables 71

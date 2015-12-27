@@ -1,0 +1,6 @@
+vegetables - 20
+dairy - 10
+meat - 40
+fruits - 15
+baked goods - 25
+beverages - 10
