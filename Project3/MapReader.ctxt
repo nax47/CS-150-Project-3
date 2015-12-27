@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=filename
-comment0.target=MapReader(java.lang.String)
-comment0.text=\r\n\ Default\ constructor.\r\n\ \r\n\ @param\ filename\ Name\ of\ file\ from\ which\ map\ is\ to\ be\ read.\r\n
-comment1.params=
-comment1.target=CityMapContainer\ createMap()
-comment1.text=\r\n\ Constructs\ map\ by\ reading\ city\ and\ road\ data\ from\ an\ external\ file.\r\n\ \r\n\ @return\ Returns\ the\ created\ map.\r\n
-numComments=2

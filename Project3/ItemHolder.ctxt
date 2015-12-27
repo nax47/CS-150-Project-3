@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=int\ size()
-comment0.text=\r\n\ Method\ to\ retrieve\ size\ of\ the\ container.\r\n\ \r\n\ @return\ Returns\ the\ size.\r\n
-comment1.params=
-comment1.target=java.lang.String\ getType()
-comment1.text=\r\n\ Method\ to\ retrieve\ Item\ type\ that\ corresponds\ to\ this\ sub\ container\ as\ String.\r\n\ \r\n\ @return\ The\ type\ of\ item.\r\n
-numComments=2

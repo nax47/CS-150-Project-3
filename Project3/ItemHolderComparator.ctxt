@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=ItemHolderComparator()
-comment0.text=\r\n\ Default\ constructor.\r\n
-comment1.params=holder1\ holder2
-comment1.target=int\ compare(ItemHolder,\ ItemHolder)
-comment1.text=\r\n\ Public\ method\ called\ to\ compare\ 2\ ItemHolders.\r\n\ \r\n\ @param\ holder1\ First\ ItemHolder\ object.\r\n\ @param\ holder2\ Second\ ItemHolder\ object.\r\n
-numComments=2

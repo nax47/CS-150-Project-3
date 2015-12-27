@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=CityCont
-comment0.target=CityGenerator(CityContainer)
-comment0.text=\r\n\ Default\ constructor.\r\n
-comment1.params=
-comment1.target=City\ generate()
-comment1.text=\r\n\ Method\ to\ randomly\ pick\ a\ city\ from\ the\ container\ of\ cities.\r\n\ \r\n\ @return\ Returns\ the\ randomly\ chosen\ city.\r\n
-numComments=2
